@@ -1,0 +1,13 @@
+The calculator has the following functionalities:
+- supports the following opperations: +,-,*,/;
+- can evaluate mathematical expresssions with parenthesis:(),[];
+- for invalid expressions a error message will appear;
+- can support root and power equations;
+Equations examples:
+
+- [40+(5-1)]*2 will print 88;
+- 5 / 0 will print error;
+- [(2*3)^2]/4-(6+2)#3, where x^y means x to the power of y and x#y is nth root of a x number with nth y, and will 7;
+- 2 * 3.2 will print 6.4;
+- 24342343.0002-3 will print 24342340.0002;
+- 2 *    3 - 8 will print -2;
